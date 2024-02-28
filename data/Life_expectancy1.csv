@@ -1,0 +1,153 @@
+Country,Continent,Life_expectancy,ADs,Alcohol,Income,Status
+Afghanistan,Asia,65.0,-2.302585092994045,0.01,0.479,Developing
+Albania,Europe,77.8,-2.302585092994045,4.6,0.762,Developing
+Algeria,Africa,75.6,-2.302585092994045,0.0,0.743,Developing
+Angola,Africa,52.4,0.6418538861723947,0.0,0.531,Developing
+Antigua and Barbuda,North America,76.4,-1.6094379124341005,0.0,0.784,Developing
+Argentina,South America,76.3,-2.302585092994045,0.0,0.826,Developing
+Armenia,Asia,74.8,-2.302585092994045,0.0,0.741,Developing
+Australia,Australia,82.8,-2.302585092994045,0.0,0.937,Developed
+Austria,Europe,81.5,-2.302585092994045,0.0,0.892,Developed
+Azerbaijan,Asia,72.7,-2.302585092994045,0.0,0.758,Developing
+Bahrain,Asia,76.9,-2.302585092994045,0.0,0.823,Developing
+Bangladesh,Asia,71.8,-2.302585092994045,0.0,0.575,Developing
+Barbados,North America,75.5,-2.302585092994045,0.0,0.794,Developing
+Belarus,Europe,72.3,-2.302585092994045,0.0,0.798,Developing
+Belgium,Europe,81.1,-2.302585092994045,0.0,0.895,Developed
+Belize,North America,71.0,-1.6094379124341005,0.0,0.706,Developing
+Benin,Africa,60.0,0.0,0.0,0.481,Developing
+Bhutan,Asia,69.8,-0.6931471805599453,0.0,0.604,Developing
+Bosnia and Herzegovina,Europe,77.4,-2.302585092994045,0.0,0.747,Developing
+Botswana,Africa,65.7,0.7884573603642703,0.0,0.698,Developing
+Brazil,South America,75.0,-2.302585092994045,0.0,0.754,Developing
+Brunei Darussalam,Asia,77.7,-2.302585092994045,0.0,0.864,Developing
+Bulgaria,Europe,74.5,-2.302585092994045,0.0,0.792,Developed
+Burkina Faso,Africa,59.9,-0.5108256237659907,0.0,0.399,Developing
+Burundi,Africa,59.6,-0.3566749439387324,0.0,0.406,Developing
+Cabo Verde,Africa,73.3,-1.6094379124341005,0.0,0.646,Developing
+Cambodia,Asia,68.7,-1.6094379124341005,0.0,0.558,Developing
+Cameroon,Africa,57.3,1.252762968495368,0.0,0.514,Developing
+Canada,North America,82.2,-2.302585092994045,0.0,0.919,Developing
+Central African Republic,Africa,52.5,1.4816045409242156,0.0,0.347,Developing
+Chad,Africa,53.1,1.029619417181158,0.0,0.394,Developing
+Chile,South America,85.0,-2.302585092994045,0.0,0.845,Developing
+China,Asia,76.1,-2.302585092994045,0.0,0.734,Developing
+Colombia,South America,74.8,-2.302585092994045,0.0,0.724,Developing
+Comoros,Africa,63.5,-0.2231435513142097,0.0,0.498,Developing
+Costa Rica,North America,79.6,-2.302585092994045,0.0,0.775,Developing
+Croatia,Europe,78.0,-2.302585092994045,0.0,0.823,Developed
+Cuba,North America,79.1,-2.302585092994045,0.0,0.773,Developing
+Cyprus,Europe,85.0,-2.302585092994045,0.0,0.854,Developed
+Denmark,Europe,86.0,-2.302585092994045,0.0,0.923,Developed
+Djibouti,Africa,63.5,0.7419373447293773,0.0,0.47,Developing
+Dominican Republic,North America,73.9,-1.203972804325936,0.0,0.718,Developing
+Ecuador,South America,76.2,-2.302585092994045,0.0,0.739,Developing
+El Salvador,North America,73.5,-1.6094379124341005,0.0,0.678,Developing
+Equatorial Guinea,Africa,58.2,1.4350845252893227,0.0,0.582,Developing
+Estonia,Europe,77.6,-2.302585092994045,0.0,0.863,Developing
+Ethiopia,Africa,64.8,-0.5108256237659907,0.0,0.441,Developing
+Fiji,Oceania,69.9,-2.302585092994045,0.0,0.734,Developing
+Finland,Europe,81.1,-2.302585092994045,0.0,0.893,Developing
+France,Europe,82.4,-2.302585092994045,0.0,0.894,Developing
+Gabon,Africa,66.0,0.9932517730102834,0.0,0.694,Developing
+Georgia,Asia/Europe,74.4,-2.302585092994045,0.0,0.768,Developing
+Germany,Europe,81.0,-2.302585092994045,0.0,0.924,Developed
+Ghana,Africa,62.4,-0.3566749439387324,0.0,0.575,Developing
+Greece,Europe,81.0,-2.302585092994045,0.0,0.865,Developing
+Grenada,North America,73.6,-2.302585092994045,0.0,0.751,Developing
+Guatemala,North America,71.9,-0.916290731874155,0.0,0.637,Developing
+Guinea,Africa,59.0,-0.6931471805599453,0.0,0.414,Developing
+Guinea-Bissau,Africa,58.9,1.1631508098056809,0.0,0.421,Developing
+Guyana,South America,66.2,-1.203972804325936,0.0,0.638,Developing
+Haiti,North America,63.5,-0.6931471805599453,0.0,0.49,Developing
+Honduras,North America,74.6,-1.203972804325936,0.0,0.623,Developing
+Hungary,Europe,75.8,-2.302585092994045,0.0,0.834,Developed
+Iceland,Europe,82.7,-2.302585092994045,0.0,0.919,Developed
+India,Asia,68.3,-1.6094379124341005,0.0,0.615,Developing
+Indonesia,Asia,69.1,-1.203972804325936,0.0,0.686,Developing
+Iraq,Asia,68.9,-2.302585092994045,0.0,0.649,Developing
+Ireland,Europe,81.4,-2.302585092994045,0.0,0.92,Developed
+Israel,Asia,82.5,-2.302585092994045,0.0,0.898,Developing
+Italy,Europe,82.7,-2.302585092994045,0.0,0.881,Developed
+Jamaica,North America,76.2,-0.6931471805599453,0.0,0.729,Developing
+Japan,Asia,83.7,-2.302585092994045,0.0,0.902,Developed
+Jordan,Asia,74.1,-2.302585092994045,0.0,0.741,Developing
+Kazakhstan,Asia,72.0,-2.302585092994045,0.0,0.793,Developing
+Kenya,Africa,63.4,1.029619417181158,0.0,0.55,Developing
+Kiribati,Oceania,66.3,-2.302585092994045,0.0,0.586,Developing
+Kuwait,Asia,74.7,-2.302585092994045,0.0,0.799,Developing
+Latvia,Europe,74.6,-2.302585092994045,0.0,0.828,Developed
+Lebanon,Asia,74.9,-2.302585092994045,0.0,0.763,Developing
+Lesotho,Africa,53.7,2.2300144001592104,0.0,0.495,Developing
+Liberia,Africa,61.4,-0.1053605156578262,0.0,0.427,Developing
+Lithuania,Europe,73.6,-2.302585092994045,0.0,0.846,Developed
+Luxembourg,Europe,82.0,-2.302585092994045,0.0,0.896,Developed
+Madagascar,Africa,65.5,-1.203972804325936,0.0,0.511,Developing
+Malawi,Africa,58.3,1.5686159179138452,0.0,0.473,Developing
+Malaysia,Asia,75.0,-2.302585092994045,0.0,0.787,Developing
+Maldives,Asia,78.5,-2.302585092994045,0.0,0.701,Developing
+Mali,Africa,58.2,0.4054651081081644,0.0,0.438,Developing
+Malta,Europe,81.7,-2.302585092994045,0.0,0.853,Developed
+Mauritania,Africa,63.1,-0.1053605156578262,0.0,0.513,Developing
+Mauritius,Asia,74.6,-2.302585092994045,0.0,0.779,Developing
+Mexico,North America,76.7,-2.302585092994045,0.0,0.758,Developing
+Mongolia,Asia,68.8,-2.302585092994045,0.0,0.733,Developing
+Montenegro,Europe,76.1,-2.302585092994045,0.0,0.804,Developing
+Morocco,Africa,74.3,-2.302585092994045,0.0,0.645,Developing
+Mozambique,Africa,57.6,1.3609765531356006,0.0,0.414,Developing
+Myanmar,Asia,66.6,-1.203972804325936,0.0,0.552,Developing
+Namibia,Africa,65.8,0.7419373447293773,0.0,0.637,Developing
+Nepal,Asia,69.2,-2.302585092994045,0.0,0.555,Developing
+Netherlands,Europe,81.9,-2.302585092994045,0.0,0.923,Developed
+New Zealand,Oceania,81.6,-2.302585092994045,8.7,0.913,Developed
+Nicaragua,North America,74.8,-2.302585092994045,0.0,0.642,Developing
+Niger,Africa,61.8,-0.916290731874155,0.0,0.351,Developing
+Nigeria,Africa,54.5,1.308332819650179,0.0,0.525,Developing
+Norway,Europe,81.8,-2.302585092994045,5.97,0.948,Developed
+Oman,Asia,76.6,-2.302585092994045,0.0,0.795,Developing
+Pakistan,Asia,66.4,-2.302585092994045,0.0,0.548,Developing
+Panama,North America,77.8,-2.302585092994045,0.0,0.785,Developing
+Paraguay,South America,74.0,-1.6094379124341005,0.0,0.692,Developing
+Peru,South America,75.5,-2.302585092994045,0.0,0.737,Developing
+Philippines,Asia,68.5,-2.302585092994045,0.0,0.679,Developing
+Poland,Europe,77.5,-2.302585092994045,0.0,0.852,Developed
+Portugal,Europe,81.1,-2.302585092994045,0.0,0.841,Developed
+Qatar,Asia,78.2,-2.302585092994045,0.0,0.855,Developing
+Romania,Europe,75.0,-2.302585092994045,0.0,0.798,Developed
+Russian Federation,Asia/Europe,75.0,-2.302585092994045,0.0,0.805,Developing
+Rwanda,Africa,66.1,-0.916290731874155,0.0,0.493,Developing
+Samoa,Oceania,74.0,-2.302585092994045,0.0,0.702,Developing
+Sao Tome and Principe,Africa,67.5,-1.6094379124341005,0.0,0.565,Developing
+Saudi Arabia,Asia,74.5,-2.302585092994045,0.0,0.845,Developing
+Senegal,Africa,66.7,-1.203972804325936,0.0,0.491,Developing
+Serbia,Europe,75.6,-2.302585092994045,0.0,0.775,Developing
+Seychelles,Africa,73.2,-2.302585092994045,0.0,0.781,Developing
+Sierra Leone,Africa,51.0,-0.6931471805599453,0.0,0.431,Developing
+Singapore,Asia,83.1,-2.302585092994045,1.79,0.924,Developed
+Slovenia,Europe,88.0,-2.302585092994045,0.0,0.888,Developed
+Solomon Islands,Oceania,69.2,-2.302585092994045,0.0,0.514,Developing
+Somalia,Africa,55.0,-0.3566749439387324,0.0,,Developing
+South Africa,Africa,62.9,1.2809338454620642,0.0,0.665,Developing
+Spain,Europe,82.8,-2.302585092994045,0.0,0.882,Developed
+Sri Lanka,Asia,74.9,-2.302585092994045,0.0,0.764,Developing
+Suriname,South America,71.6,-0.916290731874155,0.0,0.723,Developing
+Swaziland,Africa,58.9,1.9600947840472696,0.0,0.541,Developing
+Sweden,Europe,82.4,-2.302585092994045,0.0,0.909,Developed
+Switzerland,Europe,83.4,-2.302585092994045,0.0,0.938,Developed
+Tajikistan,Asia,69.7,-1.6094379124341005,0.0,0.625,Developing
+Thailand,Asia,74.9,-2.302585092994045,0.0,0.738,Developing
+Timor-Leste,Asia,68.3,-2.302585092994045,0.0,0.603,Developing
+Togo,Africa,59.9,0.0,0.0,0.484,Developing
+Tonga,Oceania,73.5,-2.302585092994045,0.0,0.718,Developing
+Trinidad and Tobago,South America,71.2,-1.203972804325936,0.0,0.779,Developing
+Tunisia,Africa,75.3,-2.302585092994045,0.0,0.723,Developing
+Turkey,Asia,75.8,-2.302585092994045,0.0,0.764,Developing
+Turkmenistan,Asia,66.3,-2.302585092994045,0.0,0.688,Developing
+Uganda,Africa,62.3,1.1314021114911006,0.0,0.488,Developing
+Ukraine,Europe,71.3,-1.6094379124341005,0.0,0.748,Developing
+United Arab Emirates,Asia,77.1,-2.302585092994045,0.0,0.836,Developing
+Uruguay,South America,77.0,-2.302585092994045,0.0,0.794,Developing
+Uzbekistan,Asia,69.4,-2.302585092994045,0.0,0.697,Developing
+Vanuatu,Oceania,72.0,-2.302585092994045,0.0,0.598,Developing
+Zambia,Africa,61.8,1.410986973710262,0.0,0.576,Developing
+Zimbabwe,Africa,67.0,1.824549292051046,0.0,0.507,Developing
